@@ -5,8 +5,8 @@ The analysis's results provide valuable insights into improving the customer exp
 In conclusion, Dorset airline can create a superior customer experience and foster long-term loyalty among its passengers by addressing the critical factors identified in the analysis which emphasises the importance of understanding passenger satisfaction and offers actionable recommendations for the airline to improve its satisfaction rating. 
 
 Contributors:
-Joseph Egena
-Ebube Nwachukwu
-Benigna Anyaeche
-Ibrahim Amusan
+Joseph Egena,
+Ebube Nwachukwu,
+Benigna Anyaeche,
+Ibrahim Amusan, and
 Yemisi Akinlotu
